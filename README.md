@@ -1,6 +1,6 @@
 # cfg-project
 
-## Project's aim
+## Introduction
 These webpages have been made by Georgia and Malva as part of an introduction to web development course with Code First Girls.
 We designed a recipe website, with various different recipes as well as embedded videos on each recipe page.
 
